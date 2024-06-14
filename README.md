@@ -1,5 +1,2 @@
-###### Jon's Notes
-### Larger Header
-# Largest Header
-
+## Jon's Notes
 ## This repository contains all of my notes.
